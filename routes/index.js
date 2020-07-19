@@ -12,6 +12,6 @@ router.use('/auth', require('./custom_auth/local'));
  * eg: router.use('/api', validateToken, require('./api'));
  */
 // Business APIs
-router.use('/api', validateToken ,require('./api'));
+router.use('/api', require('./api'));
 
 module.exports = router;
