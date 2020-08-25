@@ -34,7 +34,7 @@
     "eslint-config-prettier": "^2.10.0",
     "eslint-plugin-import": "^2.15.0",
     "eslint-plugin-prettier": "^2.7.0",
-    "faker": "^4.1.0",
+    "faker": "^5.0.0",
     "lab": "^17.3.0",
     "nodemon": "^2.0.4",
     "prettier": "^1.16.1"
